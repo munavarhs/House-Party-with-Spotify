@@ -57,7 +57,7 @@ Potential enhancements include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/room-music-controller.git
+   git clone https://github.com/munavarhs/House-Party-with-Spotify
    cd room-music-controller
    ```
 
@@ -103,5 +103,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or feedback, reach out via [your-email@example.com] or create an issue on GitHub.
+For questions or feedback, reach out via [munnavar29@gmail.com] or create an issue on GitHub.
 
